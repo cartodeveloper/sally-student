@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: arial;
+  background-color: rebeccapurple;
+  color: white;
+}
+
+h2 {
+  padding-top: 15px;
+}
+
+main {
+  margin: auto;
+  max-width: 800px;
+}
+#search {
+  cursor: pointer;
+}
+
+label {
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  background-color: black;
+  padding: 1%;
+  border-radius: 8px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
